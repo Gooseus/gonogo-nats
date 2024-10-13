@@ -1,3 +1,10 @@
+# NATS Go/No-go
+
+> [!NOTE]
+> This is a WIP
+
+The point of this Github Action is to wait for [Go/No-go](https://en.wikipedia.org/wiki/Go/no-go) signals before continuing or failing the Github Action workflow.
+
 # Create a GitHub Action Using TypeScript
 
 [![GitHub Super-Linter](https://github.com/actions/typescript-action/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
